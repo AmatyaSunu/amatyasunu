@@ -20,8 +20,8 @@
 ### 📫 Let's Connect!
 - 🌍 [Portfolio](#) *(Coming Soon!)*
 - 💼 [LinkedIn](https://www.linkedin.com/in/sunidhi-amatya-5348aa179/)
-<!-- - 📂 [Resume](#) *(Available on Request)* -->
 - 💻 [GitHub](https://github.com/AmatyaSunu)
+<!-- - 📂 [Resume](#) *(Available on Request)* -->
 
 <!-- ### 📈 GitHub Stats
 ![Sunidhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=amatyasunu&show_icons=true&theme=radical)
