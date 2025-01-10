@@ -3,14 +3,15 @@
 ### 👩‍💻 About Me
 - 🌟 Software Engineer with 3+ years of experience in web application and mobile API development.
 - 🔧 Skilled in **MERN Stack**, **AWS**, and **Google Cloud Platform (GCP)**.
-- 📚 Recently graduated with a **Master's in Information Technology** from Flinders University, Adelaide, Australia.
+- 📚 Recently graduated with a **Masters of Information Technology** from Flinders University, Adelaide, Australia.
 
 ### 💡 Skills
-- **Languages**: JavaScript, PHP, Python
+- **Languages**: JavaScript, Java, PHP, Python
 - **Frameworks**: React.js, Node.js, Express.js, Vue.js, Laravel
 - **Databases**: MongoDB, MySQL
 - **Cloud Platforms**: AWS, GCP
-- **Tools**: Git, Postman, Docker
+- **Tools**: Git, Postman, Docker, Jira
+- **Testing Framework**: Jest
 
 ### 🌱 Currently Learning
 - **Design Patterns** for building scalable and maintainable systems.
@@ -19,12 +20,12 @@
 ### 📫 Let's Connect!
 - 🌍 [Portfolio](#) *(Coming Soon!)*
 - 💼 [LinkedIn](https://www.linkedin.com/in/sunidhi-amatya-5348aa179/)
-- 📂 [Resume](#) *(Available on Request)*
+<!-- - 📂 [Resume](#) *(Available on Request)* -->
 - 💻 [GitHub](https://github.com/AmatyaSunu)
 
-### 📈 GitHub Stats
+<!-- ### 📈 GitHub Stats
 ![Sunidhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=amatyasunu&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amatyasunu&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amatyasunu&layout=compact&theme=radical) -->
 
 
 <!--
