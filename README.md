@@ -12,6 +12,10 @@
 - **Cloud Platforms**: AWS, GCP
 - **Tools**: Git, Postman, Docker
 
+### 🌱 Currently Learning
+- **Design Patterns** for building scalable and maintainable systems.
+- Enhancing my portfolio with **backend and frontend development** projects.
+
 ### 📫 Let's Connect!
 - 🌍 [Portfolio](#) *(Coming Soon!)*
 - 💼 [LinkedIn](https://www.linkedin.com/in/sunidhi-amatya-5348aa179/)
