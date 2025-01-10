@@ -24,7 +24,7 @@
 
 ### 📈 GitHub Stats
 ![Sunidhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=amatyasunu&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amatyasunu&layout=compact&theme=radical)
 
 
 <!--
